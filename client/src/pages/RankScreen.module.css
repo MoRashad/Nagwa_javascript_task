@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.itemsContainer {
+  width: 60vw;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+}
+.score {
+  font-size: 30px;
+  font-weight: 500;
+}
